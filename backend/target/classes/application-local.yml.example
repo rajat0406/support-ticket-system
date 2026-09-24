@@ -1,0 +1,12 @@
+# Copy to application-local.yml (gitignored) or set the env vars below.
+# Do not put real passwords in git.
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/support_tickets}
+    username: ${SPRING_DATASOURCE_USERNAME:support_tickets}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect

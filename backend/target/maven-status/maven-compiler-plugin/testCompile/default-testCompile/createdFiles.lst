@@ -1,0 +1,12 @@
+com/supporttickets/domain/TicketStatusTest.class
+com/supporttickets/domain/TicketTest.class
+com/supporttickets/domain/TicketStatusPolicyTest.class
+com/supporttickets/api/TicketApiContractTest$TransitionPayload.class
+com/supporttickets/application/TicketServiceTest.class
+com/supporttickets/api/TicketApiContractTest.class
+com/supporttickets/application/TicketServiceTransitionTest.class
+com/supporttickets/api/ApiExceptionHandlingTest.class
+com/supporttickets/persistence/TicketJpaRepositoryTest.class
+com/supporttickets/api/TicketTransitionApiTest.class
+com/supporttickets/api/ApiPersistenceExceptionHandlingTest.class
+com/supporttickets/api/TicketApiContractTest$CreatePayload.class

@@ -1,0 +1,10 @@
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/api/ApiExceptionHandlingTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/api/ApiPersistenceExceptionHandlingTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/api/TicketApiContractTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/api/TicketTransitionApiTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/application/TicketServiceTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/application/TicketServiceTransitionTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/domain/TicketStatusPolicyTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/domain/TicketStatusTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/domain/TicketTest.java
+/home/rajat/Documents/AI Learning/project/support-ticket-management-system/backend/src/test/java/com/supporttickets/persistence/TicketJpaRepositoryTest.java

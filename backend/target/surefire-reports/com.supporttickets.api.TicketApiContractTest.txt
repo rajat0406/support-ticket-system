@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.supporttickets.api.TicketApiContractTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.504 s -- in com.supporttickets.api.TicketApiContractTest
